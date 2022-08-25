@@ -226,6 +226,11 @@ figure.snip1321 h4 {
   margin-bottom: 5px;
   color: #232323;
 }
+figure.snip1321 h6 {
+    margin-top: 15px;
+  margin-bottom: 5px;
+  color: #271f1f;
+}
 figure.snip1321 span {
     font-size: 14px;
     font-style: italic;
@@ -246,7 +251,7 @@ figure.snip1321 i {
   color: #fff;
 }
 figure.snip1321:after {
-  background-color: #ffffff;
+  background-color: #ffffff93;
   position: absolute;
   content: "";
   display: block;

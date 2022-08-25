@@ -45,3 +45,37 @@ $(".main-menu li:first").addClass("active");
         $(window).scroll(function () {
             checkSection();
         });
+
+
+const images = ["assets/images/city/3.jpg", "assets/images/city/4.jpg", "assets/images/city/5.jpeg"];
+// for (let x = 0; x < images.length; x++) {            
+//     const element = '<img src="' + images[x] + '" alt="sq-sample26"';
+//     document.querySelector('.images').innerHTML += element;
+//     const el = '<a href="'+ images[x] +'" data-lightbox="image-1"'+
+//     'data-title="Caption"><i class="fa fa-search"></i></a>'
+//     document.querySelector('.images1').innerHTML += element;
+// }
+// function page1() {
+//     return "<html><head><style></style></head><body class='heraldone'><\/script><\/body><\/html>";
+// }
+// const outElem = document.getElementById('gallery');
+// images.forEach(function (path) {
+//     const isotopeitem = document.createElement("div");
+//     isotopeitem.className = ".isotope-item";
+//     isotopeitem.setAttribute("data-type", "city");
+//     const fig = document.createElement("figure");
+//     fig.className = ".snip1321";
+//     const img = document.createElement("img");
+//     img.src = path;
+//     img.alt = "sample";
+//     const cap = document.createElement("figcaption");
+//     const anch = document.createElement("a");
+//     anch.href = path;
+//     anch.setAttribute("data-lightbox","image-1");
+//     anch.setAttribute("data-title","Caption");
+//     cap.appendChild(anch);
+//     fig.appendChild(img);
+//     fig.appendChild(cap);
+//     isotopeitem.appendChild(fig);
+//     outElem.appendChild(isotopeitem);
+//   })
