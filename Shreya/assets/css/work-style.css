@@ -193,11 +193,11 @@ section.my-work .section-heading {
 }
 
 .lazyload {
-    background: #f7f7f7;
+    background: #766565f4;
 }
 
 .lazyloading {
-    background: #f7f7f7 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
+    background: #5e5050 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
     min-height: 60px;
 }
 
