@@ -190,7 +190,6 @@ section.my-work .section-heading {
     height: 100%;
     border-radius: 5px;
     float: left;
-    z-index: 2;
 }
 
 .lazyload {
