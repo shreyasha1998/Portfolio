@@ -149,7 +149,7 @@ html {
 
 .section {
     color: #fff;
-    width: 55%;
+    width: 100%;
     position: relative;
     /* min-height: 100vh; */
     padding-bottom: 80px;
