@@ -345,11 +345,11 @@ section.my-work .section-heading {
 }
 
 .lazyload {
-    background: #f7f7f7;
+    background: #302a2a;
 }
 
 .lazyloading {
-    background: #f7f7f7 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
+    background: #302a2a url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
     min-height: 60px;
 }
 
