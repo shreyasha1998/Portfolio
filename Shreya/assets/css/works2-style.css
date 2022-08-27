@@ -207,6 +207,10 @@ figure.snip1321 {
   -webkit-perspective: 50em;
   perspective: 50em;
 }
+
+figure.snip1321:hover {
+    box-shadow: 0 0 100px rgb(98, 31, 37); 
+}
 figure.snip1321 * {
   -webkit-box-sizing: padding-box;
   box-sizing: padding-box;
@@ -215,14 +219,9 @@ figure.snip1321 * {
 }
 
 figure.snip1321 figcaption {
-  top: 50%;
-  left: 20px;
-  right: 20px;
-  position: absolute;
-  opacity: 0;
-  z-index: 1;
-  overflow: auto;
+ color: white;
 }
+/*
 figure.snip1321 h4 {
     margin-top: 15px;
   margin-bottom: 5px;
@@ -239,11 +238,11 @@ figure.snip1321 span {
     display: block;
     color: #7a7a7a;
     overflow:auto;
-}
-figure.snip1321 i {
+} */
+/* figure.snip1321 i {
   position: relative!important;
   font-size: 18px;
-  /* background-color: #7c6b6d; */
+  /* background-color: #7c6b6d; 
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -251,7 +250,7 @@ figure.snip1321 i {
   line-height: 40px;
   border-radius: 5px;
   color: #fff;
-}
+} */
 /* figure.snip1321:after {
   background-color: #ffffff93;
   position: absolute;
