@@ -192,14 +192,14 @@ section.my-work .section-heading {
     float: left;
 }
 
-.lazyload {
+/* .lazyload {
     background: #252121f4;
 }
 
 .lazyloading {
     background: #2f2828 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
     min-height: 60px;
-}
+} */
 
 figure.snip1321 {
   overflow: hidden;

@@ -1,3 +1,13 @@
+// $(window).on('load', function() {
+//     $('.isotope-wrapper').isotope({
+//         itemSelector: '.grid-item',
+//         layoutMode: 'masonry',
+//     })
+//  });
+
+  setTimeout(function(){$('.isotope-wrapper').isotope('layout')}, 300);
+
+
 (function($) {
 $(".isotope-wrapper").each(function() {
     var $isotope = $(".isotope-box", this);
