@@ -5,7 +5,7 @@
 //     })
 //  });
 
-  setTimeout(function(){$('.isotope-wrapper').isotope('layout')}, 300);
+  setTimeout(function(){$('.isotope-wrapper').isotope('layout')}, 500);
 
 
 (function($) {
