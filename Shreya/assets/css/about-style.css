@@ -12,6 +12,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
     width: 100%;
+    background-color: #311e20;
 }
 
 
@@ -230,6 +231,7 @@ button:hover {
 .left-image img,
 .right-image img {
     border-radius: 5px;
+    height: 500px;
     /* width: 50%;
     height: 50%; */
 }
@@ -469,6 +471,24 @@ figure.snip1321.hover:after {
 }
 
 
+@media screen and (max-width: 3000px) {
+    .menu {
+        left: 5%;
+    }
+
+    .section {
+        color: #fff;
+        width: 100%;
+    }
+    .container{
+        width: 95%;
+        align-content: center;
+    }
+    .left-image-post{
+        width: 95%;
+        margin-left: 0px;
+    }
+}
 @media screen and (max-width: 1680px) {
     .menu {
         left: 5%;

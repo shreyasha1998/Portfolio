@@ -1,12 +1,3 @@
-// $(window).on('load', function() {
-//     $('.isotope-wrapper').isotope({
-//         itemSelector: '.grid-item',
-//         layoutMode: 'masonry',
-//     })
-//  });
-
-  // setTimeout(function(){$('.isotope-wrapper').isotope('layout')}, 500);
-
 
 (function($) {
 $(".isotope-wrapper").each(function() {
